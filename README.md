@@ -4,8 +4,6 @@ A Rainmeter extension for monitoring Cryptocurrencies.
 
 ![Widget Preview](https://image.ibb.co/dvRien/2018_03_24_01h11_24.png)
 
- > A [pull request is open](https://github.com/tjmarkham/win10widgets/pull/80) to merge this module into the skin itself.
-
 ### Features:
 
  * Tracks the top 5 Cryptocurrencies out of the box
