@@ -1,4 +1,4 @@
-# Cryptometer
+# Cryptometer :: Rainmeter extension in EUR with CoinmarketCap API KEY
 
 A Rainmeter extension for monitoring Cryptocurrencies (working with CoinMarketCap API KEY 2020-04-01).
 
