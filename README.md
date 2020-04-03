@@ -44,6 +44,6 @@ Each section of the configuration begins with the currency's name and symbol alo
  2. Update the currency name, symbol and necessary URLs (necessary info about currencies can be found in the [CoinMarketCap.com API](https://coinmarketcap.com/api/documentation/v1/)
  3. Adjust the row numbers, positioning the currency on the list where you'd like to see it.  This is done by incrementing or decrementing the row number after `*` in the `Y` configuration value (e.g. - the number `4` in `Y=(#TopPadding#+(#RowHeight#*4))`).  If any numbers have the same rows, they will visually end up in the same space.
  
-  > If you have more than 10 currencies, you'll need to adjust `BackgroundHeight=160` in the `[Variables]` section of the file to make sure the widget is tall enough.
+  > If you have more than 10 currencies, you'll need to adjust `BackgroundHeight=300` in the `[Variables]` section of the file to make sure the widget is tall enough.
 
 Thanks to @bkuhl who make the cryptometer https://github.com/bkuhl/cryptometer
